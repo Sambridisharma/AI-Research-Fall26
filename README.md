@@ -3,6 +3,10 @@
 Research on generative AI in higher education, focusing on how tools like ChatGPT affect student learning, academic performance, critical thinking, and teaching practices.
 
 <p align="center">
+  <img src="assets/banner.svg" alt="AI Research in Higher Education" width="1000">
+</p>
+
+<p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-research%20in%20progress-gold">
   <img alt="Docs" src="https://img.shields.io/badge/docs-available-brightgreen">
 </p>
