@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#102A1D"/>
+      <stop offset="100%" stop-color="#1F4D3A"/>
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#5B8C5A"/>
+      <stop offset="100%" stop-color="#A9C7A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <g opacity="0.95">
+    <path d="M0 410 C180 330, 330 450, 520 400 C700 350, 890 420, 1200 360 L1200 630 L0 630 Z" fill="#0E3628"/>
+    <path d="M0 470 C160 410, 360 520, 620 440 C860 360, 1010 510, 1200 450 L1200 630 L0 630 Z" fill="#153F30" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(760,90)">
+    <ellipse cx="200" cy="340" rx="120" ry="52" fill="#163F2F" opacity="0.6" />
+    <path d="M140 200 C180 120, 290 120, 360 200 C430 280, 350 350, 260 390 C180 425, 90 340, 140 200 Z" fill="url(#leafGrad)" stroke="#7F5A42" stroke-width="2"/>
+    <path d="M220 90 C255 52, 330 50, 380 90 C430 130, 390 180, 330 200 C280 218, 190 180, 220 90 Z" fill="#5B8C5A" opacity="0.95"/>
+    <path d="M120 290 C150 250, 220 246, 260 290 C310 340, 245 395, 170 420 C95 445, 60 355, 120 290 Z" fill="#2E6B4C" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(90,150)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="54" fill="#F3F1E8" font-weight="700">AI Research in Higher Education</text>
+    <text x="0" y="70" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#A9C7A6">Research on generative AI, learning, critical thinking, and teaching</text>
+    <rect x="0" y="110" width="260" height="6" rx="3" fill="#D4A82A" opacity="0.95"/>
+
+    <g transform="translate(0,160)">
+      <rect x="0" y="0" rx="10" width="230" height="52" fill="#1F4D3A" opacity="0.9" />
+      <text x="24" y="33" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#F3F1E8">Status: Research in progress</text>
+
+      <rect x="250" y="0" rx="10" width="200" height="52" fill="#2E6B4C" opacity="0.9" />
+      <text x="274" y="33" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#F3F1E8">Data &amp; Notebooks</text>
+
+      <rect x="470" y="0" rx="10" width="160" height="52" fill="#5B8C5A" opacity="0.92" />
+      <text x="495" y="33" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#102A1D">CITATION</text>
+    </g>
+  </g>
+
+  <text x="90" y="560" font-family="Segoe UI, Roboto, Arial" font-size="18" fill="#A9C7A6">Sambridisharma / AI-Research-Fall26</text>
+</svg>
