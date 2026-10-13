@@ -12,18 +12,32 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Topic" src="https://img.shields.io/badge/Topic-Generative_AI-244936">
+  <img alt="Field" src="https://img.shields.io/badge/Field-Higher_Education-426B50">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Research-789780">
+</p>
+
+## About This Project
+
+This repository explores how generative AI tools, such as ChatGPT, affect higher education. It focuses on student learning, academic performance, engagement, and the challenges of using AI in education.
+
+- The repository organizes academic papers into original research and review papers to compare findings, understand current research, and identify gaps in what we know about AI in education.
+
 ## Overview
 
 This project explores the role of generative AI in higher education, with emphasis on:
-- student learning outcomes
-- academic performance
-- critical thinking and reasoning
-- the impact of AI tools on classroom practices
-- instructor and student perspectives on responsible AI use
+
+- Student learning outcomes and academic performance
+- Student engagement, critical thinking, and reasoning
+- The impact of AI tools on teaching and classroom practices
+- Student and instructor perspectives on responsible AI use
 
 ## Research Focus
 
 - Understanding how AI-assisted tools influence learning behaviors
-- Evaluating changes in academic performance and engagement
-- Investigating how AI affects critical thinking and knowledge construction
-- Exploring ethical and pedagogical implications for teaching
+- Examining how generative AI affects academic performance and student engagement
+- Investigating how AI influences critical thinking and knowledge construction
+- Exploring the ethical and pedagogical implications of using AI in education
+
+  
