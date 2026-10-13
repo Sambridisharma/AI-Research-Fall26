@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-research%20in%20progress-gold">
+  <img alt="Status" src="https://img.shields.io/badge/status-research%20in%20progress-gold"> 
   <img alt="Docs" src="https://img.shields.io/badge/docs-available-brightgreen">
 </p>
 
