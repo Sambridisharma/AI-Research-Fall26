@@ -1,7 +1,3 @@
-# AI Research in Higher Education
-
-Research on generative AI in higher education, focusing on how tools like ChatGPT affect student learning, academic performance, critical thinking, and teaching practices.
-
 <p align="center">
   <img src="Ai research banner.svg" alt="AI Research in Higher Education" width="1000">
 </p>
