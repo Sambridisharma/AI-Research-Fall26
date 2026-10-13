@@ -8,6 +8,7 @@
     <img alt="Docs" src="https://img.shields.io/badge/docs-available-brightgreen">
   </a>
 </p>
+
 ## Overview
 
 This project explores the role of generative AI in higher education, with emphasis on:
