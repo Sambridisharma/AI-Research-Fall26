@@ -40,4 +40,7 @@ This project explores the role of generative AI in higher education, with emphas
 - Investigating how AI influences critical thinking and knowledge construction
 - Exploring the ethical and pedagogical implications of using AI in education
 
+
+By Sambridi Sharma
+
   
