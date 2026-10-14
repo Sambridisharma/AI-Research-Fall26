@@ -43,4 +43,18 @@ This project explores the role of generative AI in higher education, with emphas
 
 By Sambridi Sharma
 
-  
+| Category | Paper 1 | Paper 2 | Paper 3 |
+| :--- | :--- | :--- | :--- |
+| **Title** | Paper title | Paper title | Paper title |
+| **Year** | 2026 | 2025 | 2024 |
+| **Paper Type** | Systematic review | Original research | Original research |
+| **Research Topic** | Learning outcomes | Critical thinking | Academic performance |
+| **Research Method** | Literature review | Experiment | Survey |
+| **Sample Size** | Studies reviewed | Participants | Participants |
+| **AI Tool Studied** | ChatGPT | ChatGPT | Multiple AI tools |
+| **Effect on Learning** | Main finding | Main finding | Main finding |
+| **Effect on Critical Thinking** | Main finding | Main finding | Main finding |
+| **Effect on Academic Performance** | Main finding | Main finding | Main finding |
+| **Risks or Negative Effects** | Main finding | Main finding | Main finding |
+| **Limitations** | Main limitation | Main limitation | Main limitation |
+| **Research Gaps** | What's missing | What's missing | What's missing |
